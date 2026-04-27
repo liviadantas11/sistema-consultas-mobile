@@ -24,4 +24,4 @@ export const styles = StyleSheet.create({
     color: "#fff",
     opacity: 0.9,
   },
-})
+});
